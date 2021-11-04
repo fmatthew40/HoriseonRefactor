@@ -16,5 +16,9 @@ My task was to refactor this website.  I was able to add alt tags to images, a t
 # Screenshot
 ![screenshot](https://user-images.githubusercontent.com/93060262/140241612-e2940e25-03cd-4666-8940-dbf767ec56ad.png)
 
+<<<<<<< HEAD
 # Link to application
 >>>>>>> 19f4870914bbd0d2d7002ad2f885b35ccc034ee7
+=======
+# Link to application:
+>>>>>>> 41aefc573a37ffad47800921ac7925e042e5cfce
