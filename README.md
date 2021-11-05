@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Horiseon 
 
 # Description: 
@@ -16,6 +16,5 @@ My task was to refactor this website.  I was able to add alt tags to images, a t
 # Screenshot
 ![screenshot](https://user-images.githubusercontent.com/93060262/140241612-e2940e25-03cd-4666-8940-dbf767ec56ad.png)
 
-<<<<<<< HEAD
 # Link to application:
 https://fmatthew40.github.io/HoriseonRefactor/
